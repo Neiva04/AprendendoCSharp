@@ -1,0 +1,15 @@
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.exe
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.deps.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.runtimeconfig.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.csproj.AssemblyReference.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.AssemblyInfoInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.AssemblyInfo.cs
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\refint\AprendendoCSharp.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.genruntimeconfig.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\obj\Debug\net7.0\ref\AprendendoCSharp.dll
