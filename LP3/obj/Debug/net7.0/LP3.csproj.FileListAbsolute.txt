@@ -1,0 +1,15 @@
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\bin\Debug\net7.0\LP3.exe
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\bin\Debug\net7.0\LP3.deps.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\bin\Debug\net7.0\LP3.runtimeconfig.json
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\bin\Debug\net7.0\LP3.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\bin\Debug\net7.0\LP3.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.csproj.AssemblyReference.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.AssemblyInfoInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.AssemblyInfo.cs
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.csproj.CoreCompileInputs.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\refint\LP3.dll
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.pdb
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\LP3.genruntimeconfig.cache
+C:\Users\neiva\Desktop\Eng.Comp\Programação\C#\AprendendoCSharp\LP3\obj\Debug\net7.0\ref\LP3.dll
