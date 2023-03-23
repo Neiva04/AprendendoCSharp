@@ -4,6 +4,7 @@ public class Program {
     public static void Main() {
         Animal Koalsky = new Penguin();
         Animal Bald = new Eagle();
+        Animal Clube = new Pato();
         Console.WriteLine(Koalsky);
         Console.WriteLine(Bald);
         ((Eagle)Bald).Fly();
@@ -61,5 +62,26 @@ public class Eagle : Animal, IMoveable, ICanEatMeat, IFlyable {
 
     public void Fly() {
         Console.WriteLine("I believe I can fly");
+    }
+}
+public class Pato : Animal, IMoveable, IRunnable, ICanEatMeat, IFlyable, ISwimmable {
+    public void Move() {
+        Console.WriteLine("I am movement able");
+    }
+
+    public bool EatMeat { get; set; } = true;
+
+    public void Fly() {
+        Console.WriteLine("I believe I can fly");
+    }
+
+    public void Swim()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Run()
+    {
+        throw new NotImplementedException();
     }
 }
